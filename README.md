@@ -1,1 +1,8 @@
-# laplacian_eigenmaps
+# Laplacian Eigenmaps
+
+Thanks to the astroML database to provide SDSS galaxy spectra database, and for https://github.com/stephenportillo/SDSS-VAE/blob/master/SDSS-VAE.ipynb, from which the code of the dataset for the galaxy spectra was mostly adapted.
+
+Run
+```
+pip install astroML
+```

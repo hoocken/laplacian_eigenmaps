@@ -9,5 +9,5 @@ conda install --file code/requirements.txt
 
 or run using pip:
 ```
-pip install -r requirements.txt
+pip install -r code/requirements.txt
 ```

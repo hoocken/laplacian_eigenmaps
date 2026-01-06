@@ -1,4 +1,6 @@
 astroML==1.0.2.post1
+astroML==1.0.2.post1
 matplotlib==3.10.8
 numpy==2.4.0
+scikit_learn==1.8.0
 scipy==1.16.3
